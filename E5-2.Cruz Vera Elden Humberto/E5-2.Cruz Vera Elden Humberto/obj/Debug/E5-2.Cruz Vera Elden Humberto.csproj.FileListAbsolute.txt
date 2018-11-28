@@ -1,0 +1,14 @@
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.exe.config
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.exe
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.pdb
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.exe
+C:\Users\Dany\source\repos\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.pdb
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.exe.config
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.exe
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\bin\Debug\E5-2.Cruz Vera Elden Humberto.pdb
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.csprojResolveAssemblyReference.cache
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.csproj.CoreCompileInputs.cache
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.exe
+F:\E5-2.Cruz Vera Elden Humberto\E5-2.Cruz Vera Elden Humberto\obj\Debug\E5-2.Cruz Vera Elden Humberto.pdb
